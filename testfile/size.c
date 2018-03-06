@@ -10,5 +10,5 @@ struct b{
 };
 int main(void){
 	struct b n;
-	printf("%d", sizeof(n));
+	printf("%d", sizeof(n));	//8
 }
