@@ -25,7 +25,7 @@ int main() {
     cout << "cout b: " << b++ << " " << ++b << endl;  
     cout << "after b: " << b << endl << endl;  
   
-        //E 该部分代码是<span style="color:#3366FF;">《程序员面试宝典第四版32页》的题</span>  
+        //E  
     int arr[] = {6,7,8,9,10};  
     int *ptr = arr;  
     *(ptr++) += 123;  
